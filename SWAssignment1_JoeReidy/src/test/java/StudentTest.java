@@ -15,7 +15,7 @@ public class StudentTest {
     @Test
     public void getStudentName() {
         String result = student.getStudentName();
-        assertTrue(result.equals("John1"));
+        assertTrue(result.equals("John"));
     }
 
     @Test

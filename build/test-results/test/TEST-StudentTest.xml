@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StudentTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-11-05T16:00:34" hostname="DESKTOP-0FARLQC" time="0.003">
+<testsuite name="StudentTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-11-05T17:57:10" hostname="DESKTOP-0FARLQC" time="0.016">
   <properties/>
-  <testcase name="getCourseList" classname="StudentTest" time="0.0"/>
+  <testcase name="getCourseList" classname="StudentTest" time="0.003"/>
   <testcase name="getCourseName" classname="StudentTest" time="0.0"/>
-  <testcase name="getStudentAge" classname="StudentTest" time="0.0"/>
+  <testcase name="getStudentAge" classname="StudentTest" time="0.001"/>
   <testcase name="getModuleList" classname="StudentTest" time="0.0"/>
-  <testcase name="getModuleName" classname="StudentTest" time="0.0"/>
-  <testcase name="addModule" classname="StudentTest" time="0.0"/>
+  <testcase name="getModuleName" classname="StudentTest" time="0.001"/>
+  <testcase name="addModule" classname="StudentTest" time="0.001"/>
   <testcase name="getStudentList" classname="StudentTest" time="0.0"/>
   <testcase name="getStudentName" classname="StudentTest" time="0.0"/>
   <testcase name="getUsername" classname="StudentTest" time="0.0"/>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StudentTest" tests="9" skipped="0" failures="1" errors="0" timestamp="2021-11-05T11:01:50" hostname="DESKTOP-0FARLQC" time="0.006">
+<testsuite name="StudentTest" tests="9" skipped="0" failures="1" errors="0" timestamp="2021-11-05T11:13:24" hostname="DESKTOP-0FARLQC" time="0.008">
   <properties/>
   <testcase name="getCourseList" classname="StudentTest" time="0.001"/>
   <testcase name="getCourseName" classname="StudentTest" time="0.0"/>
   <testcase name="getStudentAge" classname="StudentTest" time="0.0"/>
-  <testcase name="getModuleList" classname="StudentTest" time="0.001"/>
+  <testcase name="getModuleList" classname="StudentTest" time="0.0"/>
   <testcase name="getModuleName" classname="StudentTest" time="0.0"/>
   <testcase name="addModule" classname="StudentTest" time="0.0"/>
   <testcase name="getStudentList" classname="StudentTest" time="0.0"/>
-  <testcase name="getStudentName" classname="StudentTest" time="0.001">
+  <testcase name="getStudentName" classname="StudentTest" time="0.002">
     <failure message="java.lang.AssertionError" type="java.lang.AssertionError">java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:86)
 	at org.junit.Assert.assertTrue(Assert.java:41)
